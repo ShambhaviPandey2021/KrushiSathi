@@ -42,9 +42,9 @@ The repository follows a specific folder structure:
 - `requirements.txt`: List of Python packages required for the project.
 
 
-![Screenshot description](images/Screenshot 2025-04-12 114856.png)
+![Screenshot description](https://github.com/ShambhaviPandey2021/KrushiSathi/blob/main/static/images/Screenshot%202025-04-12%20114856.png)
 
-![Screenshot description](images/Screenshot 2025-04-12 114939.png)
+![Screenshot description](https://github.com/ShambhaviPandey2021/KrushiSathi/blob/main/static/images/Screenshot%202025-04-12%20114939.png)
 
 ## Usage
 
